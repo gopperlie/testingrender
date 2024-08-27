@@ -27,3 +27,5 @@ npm install --save-dev husky
 npx husky init
 echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 ```
+
+sdfsdf
